@@ -10,3 +10,8 @@ Web Application is on this link: https://workingwithpytorch.herokuapp.com/
 1. Add more number of celebrities.
 2. Increase the acuuracy from current 80% to above 90% while further decreasing the number of Images it train on
 3. Make the Interface more User friendly
+
+
+<img src="./c1.PNG" width="500">
+<img src="./c2.PNG" width="500">
+<img src="./c3.PNG" width="500">
