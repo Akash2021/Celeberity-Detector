@@ -12,6 +12,6 @@ Web Application is on this link: https://workingwithpytorch.herokuapp.com/
 3. Make the Interface more User friendly
 
 
-<img src="./c1.PNG" width="500">
+<img src="./c0.PNG" width="500">
 <img src="./c2.PNG" width="500">
 <img src="./c3.PNG" width="500">
